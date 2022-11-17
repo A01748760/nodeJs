@@ -1,0 +1,19 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "testing import functionality",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A01748760/nodeJs.git"
+  },
+  "author": "david rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A01748760/nodeJs/issues"
+  },
+  "homepage": "https://github.com/A01748760/nodeJs#readme"
+}
